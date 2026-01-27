@@ -27,4 +27,6 @@ I am driven by **consistent learning, building, and improving**, with the goal o
 
 ### 📫 Let's Connect
 Open to **backend development opportunities, collaborations, and learning conversations**.  
-**Reach me via:** [LinkedIn](https://www.linkedin.com/in/muhammad-huzaifa-qureshi/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/muhammad-huzaifa-qureshi/)
+
