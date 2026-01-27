@@ -1,4 +1,4 @@
-# Hi, I'm Huzaifa Qureshi 👋
+# Hey! This is Muhammad Huzaifa Qureshi 👋
 
 **Building Backends That Scale | Python & FastAPI | PostgreSQL & NoSQL | Software Engineering Student**
 
