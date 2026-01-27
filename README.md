@@ -10,12 +10,9 @@ With a strong foundation in **programming logic** and **software engineering pri
 
 ---
 
-### 📝 Technical Writing & Communication
+### 📝 Technical Writing & Design
 Alongside development, I enjoy **technical writing** and **explaining complex concepts clearly**, which strengthens both my **communication** and **understanding of software systems**.
 
----
-
-### 🎨 Design Hobby
 I also have a keen eye for design and enjoy creating **hobby UI/UX prototypes in Figma**, which helps me better understand **user flows** and translate them into **functional, well-structured backend systems**.
 
 ---
