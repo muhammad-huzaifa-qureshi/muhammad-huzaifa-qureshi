@@ -6,7 +6,7 @@
 
 I am currently pursuing my **6th semester of Software Engineering** at Air University, with a growing focus on **backend development, APIs, and scalable software solutions**.
 
-With a strong foundation in **programming logic** and **software engineering principles**, I actively work with **Python** and **FastAPI** to build **modern, reliable backend systems**. I **design and integrate PostgreSQL & NoSQL databases**, handle **authentication, data storage, and real-time features**, creating **connected and efficient applications**.
+With a **strong foundation in programming logic and software engineering principles**, I actively work with Python and FastAPI to build modern, reliable backend systems. I design and integrate PostgreSQL databases, handle authentication, data storage, and real-time features, and **deploy applications** on cloud platforms like Google Cloud Run, ensuring **connected, efficient, and production-ready systems.**
 
 ---
 
